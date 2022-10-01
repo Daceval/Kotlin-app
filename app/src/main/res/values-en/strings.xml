@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> App</string>
+    <string name="descripcion_logo">Icon app</string>
+    <string name="boton_resgistrarse">Login</string>
+    <string name="texto_contraseña">Password</string>
+    <string name="texto_usuario">User</string>
+    <string name="boton_aceptar">accept</string>
+    <string name="string_invalido">Invalid credentials</string>
+    <string name="texto_empresa">Company</string>
+    <string name="cerrar_sesion">Log Out</string>
+</resources>
